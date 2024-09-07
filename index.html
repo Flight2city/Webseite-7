@@ -15,10 +15,6 @@
         h1 {
             color: #4CAF50;
         }
-        p {
-            font-size: 1.2em;
-            margin: 10px 0;
-        }
         a {
             color: #008CBA;
             text-decoration: none;
@@ -32,11 +28,25 @@
 </head>
 <body>
     <h1>Interessante Webseiten</h1>
-    <p><a href="https://www.google.com" target="_blank">Google</a></p>
-    <p><a href="https://www.wikipedia.org" target="_blank">Wikipedia</a></p>
-    <p><a href="https://www.youtube.com" target="_blank">YouTube</a></p>
-    <p><a href="https://www.github.com" target="_blank">GitHub</a></p>
-    <p><a href="https://www.stackoverflow.com" target="_blank">Stack Overflow</a></p>
+    <div id="links-container">
+        <!-- Die Links werden hier von JavaScript eingefügt -->
+    </div>
+
+    <script>
+        // Die JSON-Datei mit den Links laden
+        fetch('links.json')
+        .then(response => response.json())
+        .then(data => {
+            const container = document.getElementById('links-container');
+            data.forEach(link => {
+                const linkElement = document.createElement('p');
+                linkElement.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
+                container.appendChild(linkElement);
+            });
+        })
+        .catch(error => {
+            console.error('Fehler beim Laden der Links:', error);
+        });
+    </script>
 </body>
 </html>
-
