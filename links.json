@@ -13,5 +13,16 @@
       "name": "23.09 Memmingen 30,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-23&originIata=FMM&destinationIata=PMI",
       "date": "23.09.2024"
+   },
+   {
+      "name": "08.09 Memmingen 30,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-23&originIata=FMM&destinationIata=PMI",
+      "date": "08.09.2024"
+   },
+   {
+      "name": "07.09 Memmingen 30,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-23&originIata=FMM&destinationIata=PMI",
+      "date": "07.09.2024"
    }
+   
 ]
