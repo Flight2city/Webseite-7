@@ -1,5 +1,20 @@
 [
    {
+      "name": "27.10 Berlin 20,2\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-27&originIata=BER&destinationIata=PMI",
+      "date": "27.10.2024"
+   },
+   {
+      "name": "23.10 Karlsruhe 15,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-23&originIata=FKB&destinationIata=PMI",
+      "date": "23.10.2024"
+   },
+   {
+      "name": "22.10 K\u00f6ln 14,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-22&originIata=CGN&destinationIata=PMI",
+      "date": "22.10.2024"
+   },
+   {
       "name": "08.10 Memmingen 21,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-08&originIata=FMM&destinationIata=PMI",
       "date": "08.10.2024"
@@ -73,10 +88,5 @@
       "name": "16.09 N\u00fcrnberg 18,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-16&originIata=NUE&destinationIata=PMI",
       "date": "16.09.2024"
-   },
-   {
-      "name": "12.09 Karlsruhe 27,10\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-12&originIata=FKB&destinationIata=PMI",
-      "date": "12.09.2024"
    }
 ]
