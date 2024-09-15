@@ -30,6 +30,21 @@
       "date": "07.10.2024"
    },
    {
+      "name": "06.10 K\u00f6ln 34,31\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-06&originIata=CGN&destinationIata=PMI",
+      "date": "06.10.2024"
+   },
+   {
+      "name": "06.10 D\u00fcsseldorf 43,73\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-06&originIata=NRN&destinationIata=PMI",
+      "date": "06.10.2024"
+   },
+   {
+      "name": "30.09 N\u00fcrnberg 41,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-30&originIata=NUE&destinationIata=PMI",
+      "date": "30.09.2024"
+   },
+   {
       "name": "25.09 Karlsruhe 19,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-09-25&originIata=FKB&destinationIata=PMI",
       "date": "25.09.2024"
