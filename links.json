@@ -1,5 +1,20 @@
 [
    {
+      "name": "03.11 Frankfurt 19,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-03&originIata=HHN&destinationIata=PMI",
+      "date": "03.11.2024"
+   },
+   {
+      "name": "01.11 N\u00fcrnberg 21,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-01&originIata=NUE&destinationIata=PMI",
+      "date": "01.11.2024"
+   },
+   {
+      "name": "30.10 Berlin 19,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-30&originIata=BER&destinationIata=PMI",
+      "date": "30.10.2024"
+   },
+   {
       "name": "27.10 Berlin 20,2\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-27&originIata=BER&destinationIata=PMI",
       "date": "27.10.2024"
