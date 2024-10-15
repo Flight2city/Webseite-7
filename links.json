@@ -105,6 +105,11 @@
       "date": "22.10.2024"
    },
    {
+      "name": "22.10 N\u00fcrnberg 18,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-22&originIata=NUE&destinationIata=PMI",
+      "date": "22.10.2024"
+   },
+   {
       "name": "20.10 N\u00fcrnberg 14,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-20&originIata=NUE&destinationIata=PMI",
       "date": "20.10.2024"
@@ -113,20 +118,5 @@
       "name": "20.10 K\u00f6ln 22,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-20&originIata=CGN&destinationIata=PMI",
       "date": "20.10.2024"
-   },
-   {
-      "name": "15.10 Memmingen 21,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-15&originIata=FMM&destinationIata=PMI",
-      "date": "15.10.2024"
-   },
-   {
-      "name": "15.10 N\u00fcrnberg 20,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-15&originIata=NUE&destinationIata=PMI",
-      "date": "15.10.2024"
-   },
-   {
-      "name": "14.10 Memmingen 24,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-14&originIata=FMM&destinationIata=PMI",
-      "date": "14.10.2024"
    }
 ]
