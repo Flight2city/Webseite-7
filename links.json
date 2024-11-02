@@ -1,5 +1,20 @@
 [
    {
+      "name": "15.12 Frankfurt 14,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-12-15&originIata=HHN&destinationIata=PMI",
+      "date": "15.12.2024"
+   },
+   {
+      "name": "12.12 Karlsruhe 21,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-12-12&originIata=FKB&destinationIata=PMI",
+      "date": "12.12.2024"
+   },
+   {
+      "name": "11.12 Berlin 21,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-12-11&originIata=BER&destinationIata=PMI",
+      "date": "11.12.2024"
+   },
+   {
       "name": "23.11 Frankfurt 16,3\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-23&originIata=HHN&destinationIata=PMI",
       "date": "23.11.2024"
@@ -63,45 +78,5 @@
       "name": "03.11 Frankfurt 19,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-03&originIata=HHN&destinationIata=PMI",
       "date": "03.11.2024"
-   },
-   {
-      "name": "02.11 Karlsruhe 21,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-02&originIata=FKB&destinationIata=PMI",
-      "date": "02.11.2024"
-   },
-   {
-      "name": "01.11 N\u00fcrnberg 21,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-01&originIata=NUE&destinationIata=PMI",
-      "date": "01.11.2024"
-   },
-   {
-      "name": "01.11 Frankfurt 15,74\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-01&originIata=HHN&destinationIata=PMI",
-      "date": "01.11.2024"
-   },
-   {
-      "name": "01.11 Karlsruhe 21,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-11-01&originIata=FKB&destinationIata=PMI",
-      "date": "01.11.2024"
-   },
-   {
-      "name": "30.10 Berlin 19,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-30&originIata=BER&destinationIata=PMI",
-      "date": "30.10.2024"
-   },
-   {
-      "name": "28.10 Berlin 19,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-28&originIata=BER&destinationIata=PMI",
-      "date": "28.10.2024"
-   },
-   {
-      "name": "27.10 Berlin 20,2\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-27&originIata=BER&destinationIata=PMI",
-      "date": "27.10.2024"
-   },
-   {
-      "name": "24.10 K\u00f6ln 20,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2024-10-24&originIata=CGN&destinationIata=PMI",
-      "date": "24.10.2024"
    }
 ]
