@@ -1,5 +1,20 @@
 [
    {
+      "name": "12.02 Karlsruhe 17,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-12&originIata=FKB&destinationIata=PMI",
+      "date": "12.02.2025"
+   },
+   {
+      "name": "10.02 Frankfurt 17,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-10&originIata=HHN&destinationIata=PMI",
+      "date": "10.02.2025"
+   },
+   {
+      "name": "10.02 K\u00f6ln 17,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-10&originIata=CGN&destinationIata=PMI",
+      "date": "10.02.2025"
+   },
+   {
       "name": "26.01 Memmingen 16,56\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-01-26&originIata=FMM&destinationIata=PMI",
       "date": "26.01.2025"
