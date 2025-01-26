@@ -1,5 +1,20 @@
 [
    {
+      "name": "17.06 Bremen 49,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-06-17&originIata=BRE&destinationIata=PMI",
+      "date": "17.06.2025"
+   },
+   {
+      "name": "16.06 N\u00fcrnberg 52,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-06-16&originIata=NUE&destinationIata=PMI",
+      "date": "16.06.2025"
+   },
+   {
+      "name": "14.06 Berlin 52,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-06-14&originIata=BER&destinationIata=PMI",
+      "date": "14.06.2025"
+   },
+   {
       "name": "27.04 Berlin 32,82\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-04-27&originIata=BER&destinationIata=PMI",
       "date": "27.04.2025"
@@ -108,10 +123,5 @@
       "name": "27.01 Frankfurt 16,64\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-01-27&originIata=HHN&destinationIata=PMI",
       "date": "27.01.2025"
-   },
-   {
-      "name": "26.01 Memmingen 16,56\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-01-26&originIata=FMM&destinationIata=PMI",
-      "date": "26.01.2025"
    }
 ]
