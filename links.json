@@ -90,6 +90,21 @@
       "date": "06.04.2025"
    },
    {
+      "name": "01.04 Berlin 19,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-04-01&originIata=BER&destinationIata=PMI",
+      "date": "01.04.2025"
+   },
+   {
+      "name": "31.03 Frankfurt 17,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-03-31&originIata=HHN&destinationIata=PMI",
+      "date": "31.03.2025"
+   },
+   {
+      "name": "30.03 Karlsruhe 17,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-03-30&originIata=FKB&destinationIata=PMI",
+      "date": "30.03.2025"
+   },
+   {
       "name": "10.03 Frankfurt 17,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-03-10&originIata=HHN&destinationIata=PMI",
       "date": "10.03.2025"
@@ -138,25 +153,5 @@
       "name": "24.02 Frankfurt 17,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-24&originIata=HHN&destinationIata=PMI",
       "date": "24.02.2025"
-   },
-   {
-      "name": "18.02 Frankfurt 17,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-18&originIata=HHN&destinationIata=PMI",
-      "date": "18.02.2025"
-   },
-   {
-      "name": "17.02 K\u00f6ln 17,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-17&originIata=CGN&destinationIata=PMI",
-      "date": "17.02.2025"
-   },
-   {
-      "name": "17.02 Memmingen 21,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-17&originIata=FMM&destinationIata=PMI",
-      "date": "17.02.2025"
-   },
-   {
-      "name": "12.02 Karlsruhe 17,99\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-02-12&originIata=FKB&destinationIata=PMI",
-      "date": "12.02.2025"
    }
 ]
