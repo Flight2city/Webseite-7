@@ -49,6 +49,20 @@
         });
     </script>
 
+    <script>
+        // Seitenaufruf tracken
+        fetch("https://script.google.com/macros/s/AKfycbxgu2CRiffE8LszFarjf2B_72UZOB4tO1rxlXH9rePLL4a616w8nJC92Y-PsDtmFlEQjw/exec", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                event: "page_view",
+                timestamp: new Date().toISOString()
+            })
+        });
+    </script>
+
     <footer style="margin-top: 50px;">
         <p>
             <a href="impressum.html">Impressum</a> |
