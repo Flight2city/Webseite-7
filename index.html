@@ -1,96 +1,96 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Webseiten Links</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            text-align: center;
-            padding-top: 50px;
-        }
-        h1 {
-            color: #4CAF50;
-        }
-        a {
-            color: #3800ba;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1em;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Webseiten Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      text-align: center;
+      padding-top: 50px;
+    }
+    h1 {
+      color: #4CAF50;
+    }
+    a {
+      color: #3800ba;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-    <h1>Flüge nach Malle:</h1>
-    <div id="links-container">
-        <!-- Die Links werden hier von JavaScript eingefügt -->
-    </div>
+  <h1>Flüge nach Malle:</h1>
+  <div id="links-container">
+    <!-- Links werden hier eingefügt -->
+  </div>
 
-    <script>
-        const pageLoadTime = Date.now(); // Zeitpunkt des Seitenaufrufs merken
-    
-        // Seitenaufruf-Tracking direkt beim Laden
-        fetch("https://script.google.com/macros/s/AKfycbzdJV3hYNaDVVc2AlZ9p5_GJ7f962kFTP_LOBdjkTqz/dev", {
-            method: "POST",
-            mode: "no-cors",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                event: "page_view",
-                timestamp: new Date().toISOString()
-            })
+  <script>
+    const pageLoadTime = Date.now();
+
+    // Beim Laden Seitenaufruf tracken
+    fetch("DEINE_NEUE_WEBAPP_URL", {
+      method: "POST",
+      mode: "no-cors",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        event: "page_view",
+        timestamp: new Date().toISOString()
+      })
+    });
+
+    function sendClickEvent(label) {
+      const timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000);
+      fetch("DEINE_NEUE_WEBAPP_URL", {
+        method: "POST",
+        mode: "no-cors",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          event: "click",
+          timestamp: new Date().toISOString(),
+          label: label,
+          timeOnPage: timeOnPage
+        })
+      });
+    }
+
+    // JSON-Datei mit Links laden und anzeigen
+    fetch('links.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('links-container');
+        data.forEach(link => {
+          const p = document.createElement('p');
+          p.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
+          container.appendChild(p);
+
+          const aTag = p.querySelector('a');
+          aTag.addEventListener('click', () => {
+            sendClickEvent(link.name);
+          });
         });
-    
-        function sendClickEvent(label) {
-            const timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000);
-            fetch("https://script.google.com/macros/s/AKfycbzdJV3hYNaDVVc2AlZ9p5_GJ7f962kFTP_LOBdjkTqz/dev", {
-                method: "POST",
-                mode: "no-cors",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify({
-                    event: "click",
-                    timestamp: new Date().toISOString(),
-                    label: "labeel",
-                    timeOnPage: timeOnPage
-                })
-            });
-        }
-    
-        // Links aus der JSON-Datei laden und einfügen
-        fetch('links.json')
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById('links-container');
-                data.forEach(link => {
-                    const linkElement = document.createElement('p');
-                    linkElement.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
-                    container.appendChild(linkElement);
-    
-                    const aTag = linkElement.querySelector('a');
-                    aTag.addEventListener('click', () => {
-                        sendClickEvent("Test-Label");
-                    });
-                });
-            })
-            .catch(error => {
-                console.error('Fehler beim Laden der Links:', error);
-            });
-    </script>
+      })
+      .catch(error => {
+        console.error('Fehler beim Laden der Links:', error);
+      });
+  </script>
 
-    <footer style="margin-top: 50px;">
-        <p>
-            <a href="impressum.html">Impressum</a> |
-            <a href="datenschutz.html">Datenschutz</a>
-        </p>
-    </footer>
+  <footer style="margin-top: 50px;">
+    <p>
+      <a href="impressum.html">Impressum</a> |
+      <a href="datenschutz.html">Datenschutz</a>
+    </p>
+  </footer>
 </body>
 </html>
