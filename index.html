@@ -77,6 +77,7 @@
     
                     const aTag = linkElement.querySelector('a');
                     aTag.addEventListener('click', () => {
+                        console.log('Sende Klick-Label:', link.name);
                         sendClickEvent(link.name);
                     });
                 });
