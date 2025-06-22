@@ -33,24 +33,9 @@
     </div>
 
     <script>
-        // Die JSON-Datei mit den Links laden
-        fetch('links.json')
-        .then(response => response.json())
-        .then(data => {
-            const container = document.getElementById('links-container');
-            data.forEach(link => {
-                const linkElement = document.createElement('p');
-                linkElement.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
-                container.appendChild(linkElement);
-            });
-        })
-        .catch(error => {
-            console.error('Fehler beim Laden der Links:', error);
-        });
-    </script>
-
+        const pageLoadTime = Date.now(); // Zeitpunkt des Seitenaufrufs merken
     
-    <script>
+        // Seitenaufruf-Tracking direkt beim Laden
         fetch("https://script.google.com/macros/s/AKfycbxgu2CRiffE8LszFarjf2B_72UZOB4tO1rxlXH9rePLL4a616w8nJC92Y-PsDtmFlEQjw/exec", {
             method: "POST",
             mode: "no-cors",
@@ -62,15 +47,9 @@
                 timestamp: new Date().toISOString()
             })
         });
-    </script>
-
-
-    <script>
-        const pageLoadTime = Date.now(); // Zeit bei Seitenaufruf merken
     
         function sendClickEvent(label) {
-            const timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000); // Sekunden seit Seitenaufruf
-    
+            const timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000);
             fetch("https://script.google.com/macros/s/AKfycbxgu2CRiffE8LszFarjf2B_72UZOB4tO1rxlXH9rePLL4a616w8nJC92Y-PsDtmFlEQjw/exec", {
                 method: "POST",
                 mode: "no-cors",
@@ -86,26 +65,25 @@
             });
         }
     
-        // Die JSON-Datei mit den Links laden
+        // Links aus der JSON-Datei laden und einfügen
         fetch('links.json')
-        .then(response => response.json())
-        .then(data => {
-            const container = document.getElementById('links-container');
-            data.forEach(link => {
-                const linkElement = document.createElement('p');
-                linkElement.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
-                container.appendChild(linkElement);
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('links-container');
+                data.forEach(link => {
+                    const linkElement = document.createElement('p');
+                    linkElement.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
+                    container.appendChild(linkElement);
     
-                // Klick-Tracking
-                const aTag = linkElement.querySelector('a');
-                aTag.addEventListener('click', () => {
-                    sendClickEvent(link.name || link.url);
+                    const aTag = linkElement.querySelector('a');
+                    aTag.addEventListener('click', () => {
+                        sendClickEvent(link.name || link.url);
+                    });
                 });
+            })
+            .catch(error => {
+                console.error('Fehler beim Laden der Links:', error);
             });
-        })
-        .catch(error => {
-            console.error('Fehler beim Laden der Links:', error);
-        });
     </script>
 
     <footer style="margin-top: 50px;">
