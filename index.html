@@ -36,7 +36,7 @@
     const pageLoadTime = Date.now();
 
     // Beim Laden Seitenaufruf tracken
-    fetch("DEINE_NEUE_WEBAPP_URL", {
+    fetch("https://script.google.com/macros/s/AKfycby2eNsjsCzxkws8CvksxvEAx3hmVYGLGtOD0igm1ZKTdXT2s_ME7qIXVT5JQx-HkQcXAQ/exec", {
       method: "POST",
       mode: "no-cors",
       headers: {
@@ -50,7 +50,7 @@
 
     function sendClickEvent(label) {
       const timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000);
-      fetch("DEINE_NEUE_WEBAPP_URL", {
+      fetch("https://script.google.com/macros/s/AKfycby2eNsjsCzxkws8CvksxvEAx3hmVYGLGtOD0igm1ZKTdXT2s_ME7qIXVT5JQx-HkQcXAQ/exec", {
         method: "POST",
         mode: "no-cors",
         headers: {
