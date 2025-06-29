@@ -15,6 +15,21 @@
       "date": "06.10.2025"
    },
    {
+      "name": "31.08 D\u00fcsseldorf 27,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-08-31&originIata=NRN&destinationIata=PMI",
+      "date": "31.08.2025"
+   },
+   {
+      "name": "31.08 K\u00f6ln 27,99\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-08-31&originIata=CGN&destinationIata=PMI",
+      "date": "31.08.2025"
+   },
+   {
+      "name": "29.08 Berlin 17,87\u20ac",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-08-29&originIata=BER&destinationIata=PMI",
+      "date": "29.08.2025"
+   },
+   {
       "name": "26.08 Karlsruhe 26,99\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-08-26&originIata=FKB&destinationIata=PMI",
       "date": "26.08.2025"
@@ -103,15 +118,5 @@
       "name": "30.06 M\u00fcnster 33,51\u20ac",
       "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-06-30&originIata=FMO&destinationIata=PMI",
       "date": "30.06.2025"
-   },
-   {
-      "name": "25.06 Karlsruhe 33,76\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-06-25&originIata=FKB&destinationIata=PMI",
-      "date": "25.06.2025"
-   },
-   {
-      "name": "24.06 K\u00f6ln 33,76\u20ac",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-06-24&originIata=CGN&destinationIata=PMI",
-      "date": "24.06.2025"
    }
 ]
