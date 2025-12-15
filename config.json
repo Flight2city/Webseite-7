@@ -3,19 +3,18 @@
         "name": "Deutschland",
         "flag": "🇩🇪",
         "accounts": [
-            {"id": "Flight2City_DE", "name": "City Trips (DE)"},
-            {"id": "Flight2Adventure_DE", "name": "Abenteuer (DE)"},
-            {"id": "Flight2Beach_DE", "name": "Strandurlaub (DE)"},
-            {"id": "Flight2Party_DE", "name": "Party Trips (DE)"},
-            {"id": "Flight2Highlife_DE", "name": "Highlife (DE)"}
+            {"id": "Flight2City_DE", "name": "Flight2City_DE"},
+            {"id": "Flight2Adventure_DE", "name": "Flight2Adventure_DE"},
+            {"id": "Flight2Beach_DE", "name": "Flight2Beach_DE"},
+            {"id": "Flight2Party_DE", "name": "Flight2Party_DE"},
+            {"id": "Flight2Highlife_DE", "name": "Flight2Highlife_DE"}
         ]
     },
     "GB": {
         "name": "Great Britain",
         "flag": "🇬🇧",
         "accounts": [
-            {"id": "Flight2City_GB", "name": "City Trips (GB)"},
-            {"id": "Flight2Beach_GB", "name": "Beach (GB)"}
+            {"id": "Flight2Beach_GB", "name": "Flight2Beach_GB"}
         ]
     }
 }
