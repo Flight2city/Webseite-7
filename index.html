@@ -1,96 +1,36 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Webseiten Links</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      text-align: center;
-      padding-top: 50px;
-    }
-    h1 {
-      color: #4CAF50;
-    }
-    a {
-      color: #3800ba;
-      text-decoration: none;
-      font-weight: bold;
-      font-size: 1.1em;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Finder</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Flüge nach Malle:</h1>
-  <div id="links-container">
-    <!-- Links werden hier eingefügt -->
-  </div>
 
-  <script>
-    const pageLoadTime = Date.now();
+    <div class="container">
+        <!-- Dieser Titel ändert sich dynamisch -->
+        <h1 id="page-title">Willkommen</h1>
+        
+        <!-- Navigation Buttons (werden ein/ausgeblendet) -->
+        <div id="nav-buttons" class="nav-bar">
+            <button id="btn-world" onclick="loadWorldView()">🌍 Alle Länder</button>
+            <button id="btn-country" style="display:none;" onclick="loadCountryView(currentCountry)">🇩🇪 Zurück zum Land</button>
+        </div>
 
-    // Beim Laden Seitenaufruf tracken
-    fetch("https://script.google.com/macros/s/AKfycby2eNsjsCzxkws8CvksxvEAx3hmVYGLGtOD0igm1ZKTdXT2s_ME7qIXVT5JQx-HkQcXAQ/exec", {
-      method: "POST",
-      mode: "no-cors",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        event: "page_view",
-        timestamp: new Date().toISOString()
-      })
-    });
+        <!-- Hier wird der Inhalt reingeladen (Links oder Account-Liste) -->
+        <div id="content-area">
+            Lade Daten...
+        </div>
+    </div>
 
-    function sendClickEvent(label) {
-      const timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000);
-      fetch("https://script.google.com/macros/s/AKfycby2eNsjsCzxkws8CvksxvEAx3hmVYGLGtOD0igm1ZKTdXT2s_ME7qIXVT5JQx-HkQcXAQ/exec", {
-        method: "POST",
-        mode: "no-cors",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          event: "click",
-          timestamp: new Date().toISOString(),
-          label: label,
-          timeOnPage: timeOnPage
-        })
-      });
-    }
+    <footer>
+        <p>
+            <a href="impressum.html">Impressum</a> | 
+            <a href="datenschutz.html">Datenschutz</a>
+        </p>
+    </footer>
 
-    // JSON-Datei mit Links laden und anzeigen
-    fetch('links.json')
-      .then(response => response.json())
-      .then(data => {
-        const container = document.getElementById('links-container');
-        data.forEach(link => {
-          const p = document.createElement('p');
-          p.innerHTML = `<a href="${link.url}" target="_blank">${link.name}</a>`;
-          container.appendChild(p);
-
-          const aTag = p.querySelector('a');
-          aTag.addEventListener('click', () => {
-            sendClickEvent(link.name);
-          });
-        });
-      })
-      .catch(error => {
-        console.error('Fehler beim Laden der Links:', error);
-      });
-  </script>
-
-  <footer style="margin-top: 50px;">
-    <p>
-      <a href="impressum.html">Impressum</a> |
-      <a href="datenschutz.html">Datenschutz</a>
-    </p>
-  </footer>
+    <script src="script.js"></script>
 </body>
 </html>
