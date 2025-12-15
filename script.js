@@ -127,17 +127,17 @@ function updateUI(title, countryCode, isAccountView) {
     const btnWorld = document.getElementById('btn-world');
     const btnCountry = document.getElementById('btn-country');
     
-    // Welt-Button immer da, außer wir sind schon auf Welt-Ebene
-    if (!countryCode && !isAccountView) {
-         btnWorld.style.display = 'none';
-    } else {
+    // ÄNDERUNG: Button nur anzeigen, wenn ein Land gewählt ist, aber KEINE Flugliste offen ist
+    if (countryCode && !isAccountView) {
          btnWorld.style.display = 'inline-block';
+    } else {
+         btnWorld.style.display = 'none';
     }
 
     // Zurück zum Land Button nur wenn wir im Account sind UND ein Land kennen
     if (isAccountView && countryCode) {
         btnCountry.style.display = 'inline-block';
-        btnCountry.innerText = `🔙 Zurück zu ${config[countryCode].name}`;
+        btnCountry.innerText = `🔙 Alle Flüge aus Deutschland`;
     } else {
         btnCountry.style.display = 'none';
     }
