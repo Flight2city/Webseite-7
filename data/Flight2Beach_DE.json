@@ -2,7 +2,7 @@
   {
     "name": "ABS -> CDE 10.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=ABS&destinationIata=CDE",
-    "date": "08.01.2026"
+    "date": "15.12.2025"
   },
   {
     "name": "HIJ -> MAN 10.99€",
@@ -25,7 +25,7 @@
     "date": "06.01.2026"
   },
   {
-    "name": "Nürnberg -> Bari 17.99€",
+    "name": "Nürnberg -> Bari 10.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=NUE&destinationIata=BRI",
     "date": "13.01.2026"
   }
