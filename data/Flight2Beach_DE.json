@@ -1,17 +1,12 @@
 [
    {
-      "name": "HAM -> PMI 17.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=HAM&destinationIata=PMI",
+      "name": "ABS -> CDE 17.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=ABS&destinationIata=CDE",
       "date": "08.01.2026"
    },
    {
-      "name": "BER -> PMI 16.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=BER&destinationIata=PMI",
-      "date": "13.01.2026"
-   },
-   {
-      "name": "CGN -> BCN 16.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=CGN&destinationIata=BCN",
+      "name": "HIJ -> MAN 16.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-14&originIata=HIJ&destinationIata=MAN",
       "date": "13.01.2026"
    }
 ]
