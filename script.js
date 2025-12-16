@@ -28,7 +28,7 @@ window.onload = async function() {
 
 // 2. Ansicht: Alle Länder (Welt-Ebene)
 function loadWorldView() {
-    updateUI("Wähle dein Land", null, false);
+    updateUI("Choose your country", null, false);
     
     const container = document.getElementById('content-area');
     container.innerHTML = "";
