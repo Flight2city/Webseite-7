@@ -85,6 +85,15 @@ async function loadAccount(accountId) {
     currentCountry = foundCountry;
     updateUI(accountName, currentCountry, true);
 
+    // --- NEU: Social Media Links setzen ---
+    // Wir nutzen hier die ID direkt als Handle, wie gewünscht.
+    const instaLink = document.getElementById('link-insta');
+    const tiktokLink = document.getElementById('link-tiktok');
+    
+    if (instaLink) instaLink.href = `https://www.instagram.com/${accountId}`;
+    if (tiktokLink) tiktokLink.href = `https://www.tiktok.com/@${accountId}`;
+    // --------------------------------------
+
     const container = document.getElementById('content-area');
     container.innerHTML = "<p>Lade Flüge...</p>";
 
@@ -126,6 +135,7 @@ function updateUI(title, countryCode, isAccountView) {
     // Buttons steuern
     const btnWorld = document.getElementById('btn-world');
     const btnCountry = document.getElementById('btn-country');
+    const socialDiv = document.getElementById('social-buttons'); // NEU
     
     // ÄNDERUNG: Button nur anzeigen, wenn ein Land gewählt ist, aber KEINE Flugliste offen ist
     if (countryCode && !isAccountView) {
@@ -137,8 +147,16 @@ function updateUI(title, countryCode, isAccountView) {
     // Zurück zum Land Button nur wenn wir im Account sind UND ein Land kennen
     if (isAccountView && countryCode) {
         btnCountry.style.display = 'inline-block';
-        btnCountry.innerText = `🔙 Alle Flüge aus Deutschland`;
+        // Hier setzen wir den Text, unter dem die Social Buttons erscheinen sollen
+        const countryName = config[countryCode] ? config[countryCode].name : "Land";
+        btnCountry.innerText = `🔙 Alle Flüge aus ${countryName}`;
+        
+        // Social Buttons ANZEIGEN
+        if(socialDiv) socialDiv.style.display = 'flex';
     } else {
         btnCountry.style.display = 'none';
+        
+        // Social Buttons VERSTECKEN (in allen anderen Ansichten)
+        if(socialDiv) socialDiv.style.display = 'none';
     }
 }
