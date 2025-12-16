@@ -28,6 +28,7 @@ h1 {
     display: flex;
     justify-content: center;
     gap: 10px;
+    flex-wrap: wrap; /* Falls es auf Handy zu eng wird */
 }
 
 button {
@@ -42,6 +43,27 @@ button {
 
 button:hover {
     background-color: #005f6a;
+}
+
+/* Social Media Button Spezifikationen */
+.btn-social {
+    min-width: 120px; /* Damit sie gleich breit wirken */
+}
+
+.btn-insta {
+    background-color: #E1306C; /* Instagram Brand Color */
+}
+
+.btn-insta:hover {
+    background-color: #C13584;
+}
+
+.btn-tiktok {
+    background-color: #000000; /* TikTok Black */
+}
+
+.btn-tiktok:hover {
+    background-color: #333333;
 }
 
 /* Link-Listen Design */
@@ -65,6 +87,11 @@ a.flight-link {
     font-weight: bold;
     font-size: 1.2em;
     display: block; /* Macht den ganzen Bereich klickbar */
+}
+
+/* Damit die Social Buttons Links keine Unterstriche haben */
+#social-buttons a {
+    text-decoration: none;
 }
 
 .account-card {
