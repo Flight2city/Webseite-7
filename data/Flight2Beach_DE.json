@@ -1,12 +1,17 @@
 [
    {
-      "name": "Hamburg Hamburg-> Palma de Mallorca 24,49€",
-      "url": "https://www.ryanair.com",
-      "date": "10.08.2025"
+      "name": "HAM -> PMI 17.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=HAM&destinationIata=PMI",
+      "date": "08.01.2026"
    },
    {
-      "name": "Dresden -> Bercelona 24,49€",
-      "url": "https://www.ryanair.com",
-      "date": "15.09.2025"
+      "name": "FMM -> SUF 16.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=FMM&destinationIata=SUF",
+      "date": "10.01.2026"
+   },
+   {
+      "name": "CGN -> BCN 16.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=CGN&destinationIata=BCN",
+      "date": "13.01.2026"
    }
 ]
