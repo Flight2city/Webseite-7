@@ -5,13 +5,13 @@
       "date": "03.01.2026"
    },
    {
-      "name": "CGN -> BCN 16.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=CGN&destinationIata=BCN",
-      "date": "13.01.2026"
+      "name": "FMM -> SUF 16.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=FMM&destinationIata=SUF",
+      "date": "06.01.2026"
    },
    {
-      "name": "NUE -> BRI 17.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=NUE&destinationIata=BRI",
+      "name": "CGN -> BCN 16.99€",
+      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=CGN&destinationIata=BCN",
       "date": "13.01.2026"
    }
 ]
