@@ -1,17 +1,12 @@
 [
    {
-      "name": "BER -> PMI 16.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=BER&destinationIata=PMI",
+      "name": "RBL -> XYL 16.99€",
+      "url": "https://www.ryanair.com/de",
       "date": "13.01.2026"
    },
    {
-      "name": "CGN -> BCN 16.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=CGN&destinationIata=BCN",
+      "name": "GHK -> BCN 16.99€",
+      "url": "https://www.ryanair.com/de/de/",
       "date": "13.01.2026"
    },
-   {
-      "name": "NUE -> BRI 17.99€",
-      "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=NUE&destinationIata=BRI",
-      "date": "13.01.2026"
-   }
 ]
