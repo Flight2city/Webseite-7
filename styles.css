@@ -89,6 +89,11 @@ a.flight-link {
     display: block; /* Macht den ganzen Bereich klickbar */
 }
 
+/* Spezifische Regeln für den Social Media Container */
+#social-buttons {
+    gap: 50px; /* Erhöhter Abstand: Schiebt die Buttons weiter auseinander */
+}
+
 /* Damit die Social Buttons Links keine Unterstriche haben */
 #social-buttons a {
     text-decoration: none;
