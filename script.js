@@ -147,9 +147,16 @@ function updateUI(title, countryCode, isAccountView) {
     // Zurück zum Land Button nur wenn wir im Account sind UND ein Land kennen
     if (isAccountView && countryCode) {
         btnCountry.style.display = 'inline-block';
-        // Hier setzen wir den Text, unter dem die Social Buttons erscheinen sollen
-        const countryName = config[countryCode] ? config[countryCode].name : "Land";
-        btnCountry.innerText = `🔙 Alle Flüge aus ${countryName}`;
+        
+        // --- ÄNDERUNG HIER: Text dynamisch aus Config laden ---
+        const countryData = config[countryCode];
+        const countryName = countryData ? countryData.name : "Land";
+        
+        // Prüfen ob 'backText' in der config existiert, sonst Standard "Alle Flüge aus" nutzen
+        const prefixText = (countryData && countryData.backText) ? countryData.backText : "Alle Flüge aus";
+        
+        btnCountry.innerText = `🔙 ${prefixText} ${countryName}`;
+        // ------------------------------------------------------
         
         // Social Buttons ANZEIGEN
         if(socialDiv) socialDiv.style.display = 'flex';
