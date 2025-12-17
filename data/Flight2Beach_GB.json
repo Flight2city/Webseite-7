@@ -1,17 +1,1 @@
-[
-  {
-    "name": "Nottingham -> Tenerife 15.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-12-31&originIata=EMA&destinationIata=TFS",
-    "date": "31.12.2025"
-  },
-  {
-    "name": "Edinburgh -> Agadir (Temsia) 17.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=EDI&destinationIata=AGA",
-    "date": "06.01.2026"
-  },
-  {
-    "name": "London -> Barcelona 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=STN&destinationIata=BCN",
-    "date": "11.01.2026"
-  }
-]
+
