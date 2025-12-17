@@ -5,13 +5,13 @@
     "date": "01.01.2026"
   },
   {
-    "name": "Christchurch -> Alicante 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-01&originIata=BOH&destinationIata=ALC",
-    "date": "01.01.2026"
+    "name": "Newcastle upon Tyne -> Málaga 16.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=NCL&destinationIata=AGP",
+    "date": "11.01.2026"
   },
   {
-    "name": "Edinburgh -> Agadir (Temsia) 17.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=EDI&destinationIata=AGA",
-    "date": "06.01.2026"
+    "name": "Manchester -> Lisbon 15.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-17&originIata=MAN&destinationIata=LIS",
+    "date": "17.01.2026"
   }
 ]
