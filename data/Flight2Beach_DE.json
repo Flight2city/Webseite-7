@@ -1,17 +1,1 @@
-[
-  {
-    "name": "Hamburg -> Palma de Mallorca 17.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=HAM&destinationIata=PMI",
-    "date": "06.01.2026"
-  },
-  {
-    "name": "Memmingen -> Gizzeria Lido 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=FMM&destinationIata=SUF",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Köln -> Barcelona 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=CGN&destinationIata=BCN",
-    "date": "12.01.2026"
-  }
-]
+
