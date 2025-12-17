@@ -2,6 +2,7 @@
     "DE": {
         "name": "Germany",
         "flag": "🇩🇪",
+        "backText": "Alle Flüge aus",
         "accounts": [
             {"id": "Flight2City_DE", "name": "Flight2City_DE"},
             {"id": "Flight2Adventure_DE", "name": "Flight2Adventure_DE"},
@@ -13,6 +14,7 @@
     "GB": {
         "name": "Great Britain",
         "flag": "🇬🇧",
+        "backText": "All flights from",
         "accounts": [
             {"id": "Flight2Beach_GB", "name": "Flight2Beach_GB"}
         ]
