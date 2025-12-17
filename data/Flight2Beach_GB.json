@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Rhoose -> Alicante 19.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-04&originIata=CWL&destinationIata=ALC",
+    "date": "04.01.2026"
+  },
+  {
+    "name": "Paisley -> Alicante 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=GLA&destinationIata=ALC",
+    "date": "11.01.2026"
+  },
+  {
+    "name": "London -> Barcelona 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=STN&destinationIata=BCN",
+    "date": "11.01.2026"
+  }
+]
