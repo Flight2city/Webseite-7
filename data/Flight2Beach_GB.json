@@ -1,17 +1,17 @@
 [
   {
-    "name": "Christchurch -> Alicante 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-01&originIata=BOH&destinationIata=ALC",
-    "date": "01.01.2026"
+    "name": "Nottingham -> Tenerife 15.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2025-12-31&originIata=EMA&destinationIata=TFS",
+    "date": "31.12.2025"
   },
   {
-    "name": "Birmingham -> Barcelona 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=BHX&destinationIata=BCN",
-    "date": "08.01.2026"
+    "name": "Belfast -> Alicante 16.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=BFS&destinationIata=ALC",
+    "date": "06.01.2026"
   },
   {
-    "name": "Newquay -> Alicante 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-17&originIata=NQY&destinationIata=ALC",
-    "date": "17.01.2026"
+    "name": "London -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=STN&destinationIata=BCN",
+    "date": "11.01.2026"
   }
 ]
