@@ -1,17 +1,17 @@
 [
   {
-    "name": "Hamburg -> Palma de Mallorca 17.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=HAM&destinationIata=PMI",
-    "date": "06.01.2026"
+    "name": "Berlin -> Valencia 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=VLC",
+    "date": "10.01.2026"
   },
   {
-    "name": "Bremen -> Alicante 17.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=BRE&destinationIata=ALC",
-    "date": "08.01.2026"
+    "name": "Köln -> Barcelona 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=CGN&destinationIata=BCN",
+    "date": "12.01.2026"
   },
   {
-    "name": "Frankfurt am Main (Lautzenhausen) -> Barcelona 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=HHN&destinationIata=BCN",
+    "name": "B�ren -> Alicante 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=PAD&destinationIata=ALC",
     "date": "12.01.2026"
   }
 ]
