@@ -1,5 +1,10 @@
 [
   {
+    "name": "Bremen -> Alicante 18.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=BRE&destinationIata=ALC",
+    "date": "08.01.2026"
+  },
+  {
     "name": "Berlin -> Valencia 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=VLC",
     "date": "10.01.2026"
@@ -13,5 +18,15 @@
     "name": "B�ren -> Alicante 17.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=PAD&destinationIata=ALC",
     "date": "12.01.2026"
+  },
+  {
+    "name": "Nürnberg -> Bari 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=NUE&destinationIata=BRI",
+    "date": "12.01.2026"
+  },
+  {
+    "name": "Paderborn -> Alicante 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=PAD&destinationIata=ALC",
+    "date": "19.01.2026"
   }
 ]
