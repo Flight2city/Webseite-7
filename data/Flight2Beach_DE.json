@@ -15,7 +15,7 @@
     "date": "12.01.2026"
   },
   {
-    "name": "B�ren -> Alicante 17.99€",
+    "name": "Paderborn -> Alicante 17.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=PAD&destinationIata=ALC",
     "date": "12.01.2026"
   },
@@ -25,8 +25,18 @@
     "date": "12.01.2026"
   },
   {
+    "name": "Memmingen -> Gizzeria Lido 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=FMM&destinationIata=SUF",
+    "date": "13.01.2026"
+  },
+  {
     "name": "Paderborn -> Alicante 17.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=PAD&destinationIata=ALC",
+    "date": "19.01.2026"
+  },
+  {
+    "name": "Weeze -> Isola di Capo Rizzuto (KR) 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=NRN&destinationIata=CRV",
     "date": "19.01.2026"
   }
 ]
