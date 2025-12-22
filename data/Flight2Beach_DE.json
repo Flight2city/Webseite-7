@@ -10,6 +10,11 @@
     "date": "10.01.2026"
   },
   {
+    "name": "Köln -> Rome 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=CGN&destinationIata=FCO",
+    "date": "10.01.2026"
+  },
+  {
     "name": "Köln -> Barcelona 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=CGN&destinationIata=BCN",
     "date": "12.01.2026"
@@ -38,5 +43,10 @@
     "name": "Weeze -> Isola di Capo Rizzuto (KR) 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=NRN&destinationIata=CRV",
     "date": "19.01.2026"
+  },
+  {
+    "name": "Memmingen -> Gizzeria Lido 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=FMM&destinationIata=SUF",
+    "date": "20.01.2026"
   }
 ]
