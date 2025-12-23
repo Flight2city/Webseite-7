@@ -5,8 +5,18 @@
     "date": "06.01.2026"
   },
   {
+    "name": "Hamburg -> Palma de Mallorca 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=HAM&destinationIata=PMI",
+    "date": "08.01.2026"
+  },
+  {
     "name": "Berlin -> Valencia 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=VLC",
+    "date": "10.01.2026"
+  },
+  {
+    "name": "Nürnberg -> Bari 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=NUE&destinationIata=BRI",
     "date": "10.01.2026"
   },
   {
