@@ -45,6 +45,11 @@
     "date": "13.01.2026"
   },
   {
+    "name": "Greven -> Alicante 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-17&originIata=FMO&destinationIata=ALC",
+    "date": "17.01.2026"
+  },
+  {
     "name": "Paderborn -> Alicante 17.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=PAD&destinationIata=ALC",
     "date": "19.01.2026"
