@@ -63,5 +63,15 @@
     "name": "Memmingen -> Gizzeria Lido 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=FMM&destinationIata=SUF",
     "date": "20.01.2026"
+  },
+  {
+    "name": "Karlsruhe -> Bari 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=FKB&destinationIata=BRI",
+    "date": "26.01.2026"
+  },
+  {
+    "name": "Nürnberg -> Bari 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=NUE&destinationIata=BRI",
+    "date": "26.01.2026"
   }
 ]
