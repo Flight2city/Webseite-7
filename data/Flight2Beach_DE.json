@@ -5,7 +5,7 @@
     "date": "03.01.2026"
   },
   {
-    "name": "Bremen -> Alicante 18.99€",
+    "name": "Bremen -> Alicante 21.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-08&originIata=BRE&destinationIata=ALC",
     "date": "08.01.2026"
   },
@@ -98,6 +98,11 @@
     "name": "Memmingen -> Gizzeria Lido 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=FMM&destinationIata=SUF",
     "date": "13.01.2026"
+  },
+  {
+    "name": "Greven -> Alicante 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-14&originIata=FMO&destinationIata=ALC",
+    "date": "14.01.2026"
   },
   {
     "name": "Köln -> Valletta 17.99€",
