@@ -238,5 +238,20 @@
     "name": "Weeze -> Palma de Mallorca 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-01&originIata=NRN&destinationIata=PMI",
     "date": "01.02.2026"
+  },
+  {
+    "name": "Köln -> Palma de Mallorca 15.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=CGN&destinationIata=PMI",
+    "date": "02.02.2026"
+  },
+  {
+    "name": "Weeze -> Palma de Mallorca 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=NRN&destinationIata=PMI",
+    "date": "02.02.2026"
+  },
+  {
+    "name": "Memmingen -> Palermo 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=FMM&destinationIata=PMO",
+    "date": "02.02.2026"
   }
 ]
