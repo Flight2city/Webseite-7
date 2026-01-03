@@ -145,6 +145,16 @@
     "date": "17.01.2026"
   },
   {
+    "name": "Karlsruhe -> Bari 16.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-17&originIata=FKB&destinationIata=BRI",
+    "date": "17.01.2026"
+  },
+  {
+    "name": "Nürnberg -> Bari 15.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-17&originIata=NUE&destinationIata=BRI",
+    "date": "17.01.2026"
+  },
+  {
     "name": "Weeze -> Bari 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-18&originIata=NRN&destinationIata=BRI",
     "date": "18.01.2026"
@@ -217,6 +227,11 @@
   {
     "name": "Karlsruhe -> Palma de Mallorca 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=FKB&destinationIata=PMI",
+    "date": "26.01.2026"
+  },
+  {
+    "name": "Paderborn -> Alicante 17.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=PAD&destinationIata=ALC",
     "date": "26.01.2026"
   },
   {
