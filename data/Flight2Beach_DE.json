@@ -1,11 +1,6 @@
 [
   {
     "name": "Memmingen -> Tangier 19.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-03&originIata=FMM&destinationIata=TNG",
-    "date": "03.01.2026"
-  },
-  {
-    "name": "Memmingen -> Tangier 19.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-06&originIata=FMM&destinationIata=TNG",
     "date": "06.01.2026"
   },
@@ -230,7 +225,7 @@
     "date": "26.01.2026"
   },
   {
-    "name": "Paderborn -> Alicante 17.99€",
+    "name": "Paderborn -> Alicante 15.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=PAD&destinationIata=ALC",
     "date": "26.01.2026"
   },
