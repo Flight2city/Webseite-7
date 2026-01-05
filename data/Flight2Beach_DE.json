@@ -263,5 +263,10 @@
     "name": "Memmingen -> Palermo 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=FMM&destinationIata=PMO",
     "date": "02.02.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Gizzeria Lido 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=HHN&destinationIata=SUF",
+    "date": "02.02.2026"
   }
 ]
