@@ -1,15 +1,5 @@
 [
   {
-    "name": "Exeter -> Málaga 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-09&originIata=EXT&destinationIata=AGP",
-    "date": "09.01.2026"
-  },
-  {
-    "name": "London -> Agadir (Temsia) 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-09&originIata=STN&destinationIata=AGA",
-    "date": "09.01.2026"
-  },
-  {
     "name": "Berlin -> Valencia 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=VLC",
     "date": "10.01.2026"
@@ -135,8 +125,23 @@
     "date": "13.01.2026"
   },
   {
-    "name": "Liverpool -> San Bartolom� 14.99£",
+    "name": "Liverpool -> Lanzarote 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=LPL&destinationIata=ACE",
+    "date": "13.01.2026"
+  },
+  {
+    "name": "Prestwick -> Tenerife 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=PIK&destinationIata=TFS",
+    "date": "13.01.2026"
+  },
+  {
+    "name": "Birmingham -> Lanzarote 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=BHX&destinationIata=ACE",
+    "date": "13.01.2026"
+  },
+  {
+    "name": "London -> Cagliari 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-13&originIata=STN&destinationIata=CAG",
     "date": "13.01.2026"
   },
   {
@@ -145,7 +150,7 @@
     "date": "14.01.2026"
   },
   {
-    "name": "London -> Bari 16.99£",
+    "name": "London -> Bari 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-14&originIata=STN&destinationIata=BRI",
     "date": "14.01.2026"
   },
@@ -182,6 +187,11 @@
   {
     "name": "Edinburgh -> Napoli 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-15&originIata=EDI&destinationIata=NAP",
+    "date": "15.01.2026"
+  },
+  {
+    "name": "London -> Napoli 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-15&originIata=STN&destinationIata=NAP",
     "date": "15.01.2026"
   },
   {
@@ -265,6 +275,11 @@
     "date": "18.01.2026"
   },
   {
+    "name": "London -> Gizzeria Lido 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-18&originIata=STN&destinationIata=SUF",
+    "date": "18.01.2026"
+  },
+  {
     "name": "Luton -> Barcelona 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=LTN&destinationIata=BCN",
     "date": "19.01.2026"
@@ -295,6 +310,11 @@
     "date": "19.01.2026"
   },
   {
+    "name": "Birmingham -> Palma de Mallorca 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-19&originIata=BHX&destinationIata=PMI",
+    "date": "19.01.2026"
+  },
+  {
     "name": "Manchester -> Alicante 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=MAN&destinationIata=ALC",
     "date": "20.01.2026"
@@ -310,6 +330,11 @@
     "date": "20.01.2026"
   },
   {
+    "name": "Paisley -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=GLA&destinationIata=ALC",
+    "date": "20.01.2026"
+  },
+  {
     "name": "Edinburgh -> Valencia 17.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=EDI&destinationIata=VLC",
     "date": "21.01.2026"
@@ -322,6 +347,11 @@
   {
     "name": "Manchester -> Gran Canaria Island 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=MAN&destinationIata=LPA",
+    "date": "21.01.2026"
+  },
+  {
+    "name": "London -> Brindisi 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=STN&destinationIata=BDS",
     "date": "21.01.2026"
   },
   {
@@ -342,6 +372,16 @@
   {
     "name": "Birmingham -> Barcelona 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=BHX&destinationIata=BCN",
+    "date": "22.01.2026"
+  },
+  {
+    "name": "London -> Dalaman 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=STN&destinationIata=DLM",
+    "date": "22.01.2026"
+  },
+  {
+    "name": "London -> Palma de Mallorca 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=STN&destinationIata=PMI",
     "date": "22.01.2026"
   },
   {
@@ -375,7 +415,7 @@
     "date": "26.01.2026"
   },
   {
-    "name": "Liverpool -> Málaga 17.99£",
+    "name": "Liverpool -> Málaga 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=LPL&destinationIata=AGP",
     "date": "26.01.2026"
   },
@@ -410,6 +450,16 @@
     "date": "27.01.2026"
   },
   {
+    "name": "London -> Corvera 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=STN&destinationIata=RMU",
+    "date": "27.01.2026"
+  },
+  {
+    "name": "London -> Gran Canaria Island 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=STN&destinationIata=LPA",
+    "date": "27.01.2026"
+  },
+  {
     "name": "London -> Bari 18.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=STN&destinationIata=BRI",
     "date": "28.01.2026"
@@ -417,6 +467,11 @@
   {
     "name": "Birmingham -> Paphos 18.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=BHX&destinationIata=PFO",
+    "date": "29.01.2026"
+  },
+  {
+    "name": "London -> Spata-Artemida 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=STN&destinationIata=ATH",
     "date": "29.01.2026"
   },
   {
