@@ -1,30 +1,5 @@
 [
   {
-    "name": "Berlin -> Valencia 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=VLC",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Köln -> Rome 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=CGN&destinationIata=FCO",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Berlin -> Paphos 18.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=PFO",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Memmingen -> Valencia 17.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=FMM&destinationIata=VLC",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Köln -> Alicante 15.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=CGN&destinationIata=ALC",
-    "date": "10.01.2026"
-  },
-  {
     "name": "Memmingen -> Valletta 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=FMM&destinationIata=MLA",
     "date": "11.01.2026"
@@ -170,6 +145,11 @@
     "date": "20.01.2026"
   },
   {
+    "name": "Köln -> Lisbon 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=CGN&destinationIata=LIS",
+    "date": "20.01.2026"
+  },
+  {
     "name": "L�beck -> Málaga 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=LBC&destinationIata=AGP",
     "date": "21.01.2026"
@@ -182,6 +162,16 @@
   {
     "name": "Weeze -> Paphos 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=NRN&destinationIata=PFO",
+    "date": "22.01.2026"
+  },
+  {
+    "name": "Weeze -> Agadir (Temsia) 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=NRN&destinationIata=AGA",
+    "date": "22.01.2026"
+  },
+  {
+    "name": "Greven -> Málaga 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=FMO&destinationIata=AGP",
     "date": "22.01.2026"
   },
   {
