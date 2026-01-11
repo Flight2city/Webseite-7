@@ -1,50 +1,5 @@
 [
   {
-    "name": "Berlin -> Valencia 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BER&destinationIata=VLC",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Nürnberg -> Bari 17.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=NUE&destinationIata=BRI",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Köln -> Rome 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=CGN&destinationIata=FCO",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "London -> Valencia 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=STN&destinationIata=VLC",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Bristol -> Alicante 17.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BRS&destinationIata=ALC",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "London -> Napoli 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=STN&destinationIata=NAP",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Luton -> Barcelona 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=LTN&destinationIata=BCN",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "Birmingham -> Málaga 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=BHX&destinationIata=AGP",
-    "date": "10.01.2026"
-  },
-  {
-    "name": "London -> Palma de Mallorca 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-10&originIata=STN&destinationIata=PMI",
-    "date": "10.01.2026"
-  },
-  {
     "name": "Rhoose -> Alicante 19.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=CWL&destinationIata=ALC",
     "date": "11.01.2026"
@@ -332,6 +287,11 @@
   {
     "name": "Paisley -> Alicante 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=GLA&destinationIata=ALC",
+    "date": "20.01.2026"
+  },
+  {
+    "name": "Birmingham -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=BHX&destinationIata=ALC",
     "date": "20.01.2026"
   },
   {
