@@ -1,10 +1,5 @@
 [
   {
-    "name": "Memmingen -> Valletta 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-11&originIata=FMM&destinationIata=MLA",
-    "date": "11.01.2026"
-  },
-  {
     "name": "Köln -> Barcelona 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-12&originIata=CGN&destinationIata=BCN",
     "date": "12.01.2026"
@@ -150,6 +145,11 @@
     "date": "20.01.2026"
   },
   {
+    "name": "Berlin -> Catania 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-20&originIata=BER&destinationIata=CTA",
+    "date": "20.01.2026"
+  },
+  {
     "name": "L�beck -> Málaga 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=LBC&destinationIata=AGP",
     "date": "21.01.2026"
@@ -157,6 +157,11 @@
   {
     "name": "Karlsruhe -> Valencia 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=FKB&destinationIata=VLC",
+    "date": "21.01.2026"
+  },
+  {
+    "name": "Bremen -> Lanzarote 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-21&originIata=BRE&destinationIata=ACE",
     "date": "21.01.2026"
   },
   {
@@ -172,6 +177,11 @@
   {
     "name": "Greven -> Málaga 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=FMO&destinationIata=AGP",
+    "date": "22.01.2026"
+  },
+  {
+    "name": "Memmingen -> Gran Canaria Island 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-22&originIata=FMM&destinationIata=LPA",
     "date": "22.01.2026"
   },
   {
