@@ -75,6 +75,16 @@
     "date": "26.01.2026"
   },
   {
+    "name": "Memmingen -> Palma de Mallorca 19.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=FMM&destinationIata=PMI",
+    "date": "26.01.2026"
+  },
+  {
+    "name": "Nürnberg -> Palermo 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-26&originIata=NUE&destinationIata=PMO",
+    "date": "26.01.2026"
+  },
+  {
     "name": "Köln -> Paphos 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=CGN&destinationIata=PFO",
     "date": "27.01.2026"
@@ -107,6 +117,26 @@
   {
     "name": "Memmingen -> Gizzeria Lido 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=FMM&destinationIata=SUF",
+    "date": "27.01.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Gran Canaria Island 17.39€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=HHN&destinationIata=LPA",
+    "date": "27.01.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Málaga 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=HHN&destinationIata=AGP",
+    "date": "27.01.2026"
+  },
+  {
+    "name": "Nürnberg -> Málaga 17.20€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=NUE&destinationIata=AGP",
+    "date": "27.01.2026"
+  },
+  {
+    "name": "Memmingen -> Gran Canaria Island 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-27&originIata=FMM&destinationIata=LPA",
     "date": "27.01.2026"
   },
   {
@@ -205,8 +235,58 @@
     "date": "02.02.2026"
   },
   {
+    "name": "Paderborn -> Alicante 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=PAD&destinationIata=ALC",
+    "date": "02.02.2026"
+  },
+  {
     "name": "Weeze -> Bari 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-03&originIata=NRN&destinationIata=BRI",
     "date": "03.02.2026"
+  },
+  {
+    "name": "Nürnberg -> Bari 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-05&originIata=NUE&destinationIata=BRI",
+    "date": "05.02.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Gizzeria Lido 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-05&originIata=HHN&destinationIata=SUF",
+    "date": "05.02.2026"
+  },
+  {
+    "name": "Nürnberg -> Palma de Mallorca 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-07&originIata=NUE&destinationIata=PMI",
+    "date": "07.02.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Palma de Mallorca 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=HHN&destinationIata=PMI",
+    "date": "09.02.2026"
+  },
+  {
+    "name": "Weeze -> Bari 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=NRN&destinationIata=BRI",
+    "date": "09.02.2026"
+  },
+  {
+    "name": "Weeze -> Alicante 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=NRN&destinationIata=ALC",
+    "date": "09.02.2026"
+  },
+  {
+    "name": "Hamburg -> Palma de Mallorca 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-14&originIata=HAM&destinationIata=PMI",
+    "date": "14.02.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Al Aaroui 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-21&originIata=HHN&destinationIata=NDR",
+    "date": "21.02.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Alicante 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-25&originIata=HHN&destinationIata=ALC",
+    "date": "25.02.2026"
   }
 ]
