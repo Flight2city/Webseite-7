@@ -1,70 +1,5 @@
 [
   {
-    "name": "London -> Bari 18.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=STN&destinationIata=BRI",
-    "date": "28.01.2026"
-  },
-  {
-    "name": "Liverpool -> Faro 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=LPL&destinationIata=FAO",
-    "date": "28.01.2026"
-  },
-  {
-    "name": "Rhoose -> Tenerife 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=CWL&destinationIata=TFS",
-    "date": "28.01.2026"
-  },
-  {
-    "name": "London -> Valencia 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=STN&destinationIata=VLC",
-    "date": "28.01.2026"
-  },
-  {
-    "name": "Edinburgh -> Gran Canaria Island 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=EDI&destinationIata=LPA",
-    "date": "28.01.2026"
-  },
-  {
-    "name": "Birmingham -> Valletta 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-28&originIata=BHX&destinationIata=MLA",
-    "date": "28.01.2026"
-  },
-  {
-    "name": "Birmingham -> Paphos 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=BHX&destinationIata=PFO",
-    "date": "29.01.2026"
-  },
-  {
-    "name": "London -> Spata-Artemida 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=STN&destinationIata=ATH",
-    "date": "29.01.2026"
-  },
-  {
-    "name": "Edinburgh -> El Matorral 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=EDI&destinationIata=FUE",
-    "date": "29.01.2026"
-  },
-  {
-    "name": "Manchester -> El Matorral 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=MAN&destinationIata=FUE",
-    "date": "29.01.2026"
-  },
-  {
-    "name": "Luton -> Faro 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=LTN&destinationIata=FAO",
-    "date": "29.01.2026"
-  },
-  {
-    "name": "London -> Dalaman 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=STN&destinationIata=DLM",
-    "date": "29.01.2026"
-  },
-  {
-    "name": "Liverpool -> Lanzarote 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-29&originIata=LPL&destinationIata=ACE",
-    "date": "29.01.2026"
-  },
-  {
     "name": "Bristol -> Gran Canaria Island 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-01-30&originIata=BRS&destinationIata=LPA",
     "date": "30.01.2026"
@@ -225,6 +160,11 @@
     "date": "15.02.2026"
   },
   {
+    "name": "Exeter -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-16&originIata=EXT&destinationIata=ALC",
+    "date": "16.02.2026"
+  },
+  {
     "name": "Edinburgh -> Agadir (Temsia) 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-18&originIata=EDI&destinationIata=AGA",
     "date": "18.02.2026"
@@ -280,6 +220,11 @@
     "date": "23.02.2026"
   },
   {
+    "name": "Luton -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-23&originIata=LTN&destinationIata=BCN",
+    "date": "23.02.2026"
+  },
+  {
     "name": "London -> Lisbon 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-24&originIata=STN&destinationIata=LIS",
     "date": "24.02.2026"
@@ -312,6 +257,11 @@
   {
     "name": "Birmingham -> Tenerife 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-28&originIata=BHX&destinationIata=TFS",
+    "date": "28.02.2026"
+  },
+  {
+    "name": "Christchurch -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-28&originIata=BOH&destinationIata=ALC",
     "date": "28.02.2026"
   }
 ]
