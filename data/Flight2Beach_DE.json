@@ -1,35 +1,5 @@
 [
   {
-    "name": "Köln -> Palma de Mallorca 15.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=CGN&destinationIata=PMI",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Weeze -> Palma de Mallorca 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=NRN&destinationIata=PMI",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Memmingen -> Palermo 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=FMM&destinationIata=PMO",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Frankfurt am Main -> Gizzeria Lido 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=HHN&destinationIata=SUF",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Karlsruhe -> Málaga 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=FKB&destinationIata=AGP",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Paderborn -> Alicante 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=PAD&destinationIata=ALC",
-    "date": "02.02.2026"
-  },
-  {
     "name": "Weeze -> Bari 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-03&originIata=NRN&destinationIata=BRI",
     "date": "03.02.2026"
@@ -127,6 +97,11 @@
   {
     "name": "Memmingen -> Palermo 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=FMM&destinationIata=PMO",
+    "date": "09.02.2026"
+  },
+  {
+    "name": "Karlsruhe -> Bari 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=FKB&destinationIata=BRI",
     "date": "09.02.2026"
   },
   {
