@@ -1,50 +1,5 @@
 [
   {
-    "name": "Liverpool -> Málaga 18.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=LPL&destinationIata=AGP",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "London -> Bari 18.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=STN&destinationIata=BRI",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Bristol -> Málaga 17.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=BRS&destinationIata=AGP",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Birmingham -> Valencia 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=BHX&destinationIata=VLC",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Manchester -> El Matorral 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=MAN&destinationIata=FUE",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Manchester -> Faro 16.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=MAN&destinationIata=FAO",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Nottingham -> Málaga 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=EMA&destinationIata=AGP",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Nottingham -> El Matorral 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=EMA&destinationIata=FUE",
-    "date": "02.02.2026"
-  },
-  {
-    "name": "Nottingham -> Tenerife 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-02&originIata=EMA&destinationIata=TFS",
-    "date": "02.02.2026"
-  },
-  {
     "name": "London -> Palermo 16.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-03&originIata=STN&destinationIata=PMO",
     "date": "03.02.2026"
@@ -117,6 +72,11 @@
   {
     "name": "Nottingham -> El Matorral 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=EMA&destinationIata=FUE",
+    "date": "09.02.2026"
+  },
+  {
+    "name": "Birmingham -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-09&originIata=BHX&destinationIata=BCN",
     "date": "09.02.2026"
   },
   {
@@ -207,6 +167,11 @@
   {
     "name": "Luton -> Barcelona 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-23&originIata=LTN&destinationIata=BCN",
+    "date": "23.02.2026"
+  },
+  {
+    "name": "Norwich -> Valletta 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-23&originIata=NWI&destinationIata=MLA",
     "date": "23.02.2026"
   },
   {
