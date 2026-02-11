@@ -1,10 +1,5 @@
 [
   {
-    "name": "Paisley -> Alicante 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-10&originIata=GLA&destinationIata=ALC",
-    "date": "10.02.2026"
-  },
-  {
     "name": "Belfast -> Alicante 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-15&originIata=BFS&destinationIata=ALC",
     "date": "15.02.2026"
@@ -232,6 +227,16 @@
   {
     "name": "Exeter -> Málaga 16.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=EXT&destinationIata=AGP",
+    "date": "02.03.2026"
+  },
+  {
+    "name": "Newcastle upon Tyne -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=NCL&destinationIata=BCN",
+    "date": "02.03.2026"
+  },
+  {
+    "name": "Manchester -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=MAN&destinationIata=ALC",
     "date": "02.03.2026"
   },
   {
