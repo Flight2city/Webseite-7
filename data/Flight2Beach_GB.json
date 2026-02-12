@@ -140,6 +140,11 @@
     "date": "23.02.2026"
   },
   {
+    "name": "Birmingham -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-23&originIata=BHX&destinationIata=BCN",
+    "date": "23.02.2026"
+  },
+  {
     "name": "London -> Lisbon 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-24&originIata=STN&destinationIata=LIS",
     "date": "24.02.2026"
@@ -240,6 +245,11 @@
     "date": "02.03.2026"
   },
   {
+    "name": "Christchurch -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=BOH&destinationIata=ALC",
+    "date": "02.03.2026"
+  },
+  {
     "name": "Luton -> Valletta 16.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-03&originIata=LTN&destinationIata=MLA",
     "date": "03.03.2026"
@@ -297,6 +307,11 @@
   {
     "name": "London -> Tenerife 16.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=STN&destinationIata=TFS",
+    "date": "09.03.2026"
+  },
+  {
+    "name": "Newcastle upon Tyne -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=NCL&destinationIata=BCN",
     "date": "09.03.2026"
   },
   {
