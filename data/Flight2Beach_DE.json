@@ -355,8 +355,18 @@
     "date": "08.03.2026"
   },
   {
+    "name": "Memmingen -> Valencia 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=FMM&destinationIata=VLC",
+    "date": "09.03.2026"
+  },
+  {
     "name": "Köln -> Palma de Mallorca 19.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=CGN&destinationIata=PMI",
+    "date": "10.03.2026"
+  },
+  {
+    "name": "Lübeck -> Palma de Mallorca 24.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=LBC&destinationIata=PMI",
     "date": "10.03.2026"
   },
   {
@@ -367,6 +377,11 @@
   {
     "name": "Nürnberg -> Palma de Mallorca 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-14&originIata=NUE&destinationIata=PMI",
+    "date": "14.03.2026"
+  },
+  {
+    "name": "Nürnberg -> Bari 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-14&originIata=NUE&destinationIata=BRI",
     "date": "14.03.2026"
   },
   {
