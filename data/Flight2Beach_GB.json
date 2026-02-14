@@ -220,6 +220,11 @@
     "date": "28.02.2026"
   },
   {
+    "name": "Edinburgh -> Agadir (Temsia) 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-01&originIata=EDI&destinationIata=AGA",
+    "date": "01.03.2026"
+  },
+  {
     "name": "London -> El Matorral 17.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=STN&destinationIata=FUE",
     "date": "02.03.2026"
