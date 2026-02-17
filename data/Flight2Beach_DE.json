@@ -1,10 +1,5 @@
 [
   {
-    "name": "Hamburg -> Palma de Mallorca 16.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-14&originIata=HAM&destinationIata=PMI",
-    "date": "14.02.2026"
-  },
-  {
     "name": "Weeze -> Al Aaroui 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-19&originIata=NRN&destinationIata=NDR",
     "date": "19.02.2026"
@@ -307,6 +302,11 @@
   {
     "name": "Karlsruhe -> Tangier 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-03&originIata=FKB&destinationIata=TNG",
+    "date": "03.03.2026"
+  },
+  {
+    "name": "Memmingen -> Gizzeria Lido 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-03&originIata=FMM&destinationIata=SUF",
     "date": "03.03.2026"
   },
   {
