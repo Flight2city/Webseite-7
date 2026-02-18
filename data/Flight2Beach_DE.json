@@ -270,7 +270,7 @@
     "date": "02.03.2026"
   },
   {
-    "name": "Köln -> Barcelona 20.14€",
+    "name": "Köln -> Barcelona 20.55€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=CGN&destinationIata=BCN",
     "date": "02.03.2026"
   },
@@ -373,6 +373,11 @@
     "name": "Köln -> Alicante 24.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=CGN&destinationIata=ALC",
     "date": "11.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Gizzeria Lido 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-12&originIata=HHN&destinationIata=SUF",
+    "date": "12.03.2026"
   },
   {
     "name": "Nürnberg -> Palma de Mallorca 14.99€",
