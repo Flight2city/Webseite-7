@@ -1,20 +1,5 @@
 [
   {
-    "name": "Belfast -> Alicante 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-15&originIata=BFS&destinationIata=ALC",
-    "date": "15.02.2026"
-  },
-  {
-    "name": "Exeter -> Alicante 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-16&originIata=EXT&destinationIata=ALC",
-    "date": "16.02.2026"
-  },
-  {
-    "name": "Paisley -> Alicante 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-17&originIata=GLA&destinationIata=ALC",
-    "date": "17.02.2026"
-  },
-  {
     "name": "Edinburgh -> Agadir (Temsia) 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-18&originIata=EDI&destinationIata=AGA",
     "date": "18.02.2026"
@@ -320,8 +305,18 @@
     "date": "09.03.2026"
   },
   {
+    "name": "Bristol -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=BRS&destinationIata=ALC",
+    "date": "10.03.2026"
+  },
+  {
     "name": "Bristol -> Faro 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-13&originIata=BRS&destinationIata=FAO",
     "date": "13.03.2026"
+  },
+  {
+    "name": "Paisley -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-17&originIata=GLA&destinationIata=ALC",
+    "date": "17.03.2026"
   }
 ]
