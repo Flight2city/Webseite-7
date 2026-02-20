@@ -340,6 +340,16 @@
     "date": "04.03.2026"
   },
   {
+    "name": "Weeze -> Tangier 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-04&originIata=NRN&destinationIata=TNG",
+    "date": "04.03.2026"
+  },
+  {
+    "name": "Karlsruhe -> Tenerife 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-05&originIata=FKB&destinationIata=TFS",
+    "date": "05.03.2026"
+  },
+  {
     "name": "Nürnberg -> Faro 21.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-06&originIata=NUE&destinationIata=FAO",
     "date": "06.03.2026"
@@ -375,8 +385,23 @@
     "date": "08.03.2026"
   },
   {
+    "name": "Memmingen -> Alicante 28.36€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-08&originIata=FMM&destinationIata=ALC",
+    "date": "08.03.2026"
+  },
+  {
+    "name": "Weeze -> Palma de Mallorca 25.49€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-08&originIata=NRN&destinationIata=PMI",
+    "date": "08.03.2026"
+  },
+  {
     "name": "Memmingen -> Valencia 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=FMM&destinationIata=VLC",
+    "date": "09.03.2026"
+  },
+  {
+    "name": "Weeze -> Alicante 25.69€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=NRN&destinationIata=ALC",
     "date": "09.03.2026"
   },
   {
@@ -412,6 +437,21 @@
   {
     "name": "Karlsruhe -> Trapani (TP) 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=FKB&destinationIata=TPS",
+    "date": "11.03.2026"
+  },
+  {
+    "name": "Weeze -> Tenerife 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=NRN&destinationIata=TFS",
+    "date": "11.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Tenerife 25.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=HHN&destinationIata=TFS",
+    "date": "11.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Palermo 17.68€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=HHN&destinationIata=PMO",
     "date": "11.03.2026"
   },
   {
@@ -457,6 +497,16 @@
   {
     "name": "Frankfurt am Main -> Barcelona 27.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-18&originIata=HHN&destinationIata=BCN",
+    "date": "18.03.2026"
+  },
+  {
+    "name": "Memmingen -> Tenerife 25.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-18&originIata=FMM&destinationIata=TFS",
+    "date": "18.03.2026"
+  },
+  {
+    "name": "Köln -> Tenerife 26.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-18&originIata=CGN&destinationIata=TFS",
     "date": "18.03.2026"
   },
   {
