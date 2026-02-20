@@ -1,10 +1,5 @@
 [
   {
-    "name": "Weeze -> Al Aaroui 14.99€",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-19&originIata=NRN&destinationIata=NDR",
-    "date": "19.02.2026"
-  },
-  {
     "name": "Frankfurt am Main -> Al Aaroui 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-21&originIata=HHN&destinationIata=NDR",
     "date": "21.02.2026"
@@ -220,13 +215,18 @@
     "date": "01.03.2026"
   },
   {
-    "name": "Frankfurt am Main -> Catania 18.99€",
+    "name": "Frankfurt am Main -> Catania 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-01&originIata=HHN&destinationIata=CTA",
     "date": "01.03.2026"
   },
   {
     "name": "Berlin -> Reggio Calabria 19.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-01&originIata=BER&destinationIata=REG",
+    "date": "01.03.2026"
+  },
+  {
+    "name": "Weeze -> Bari 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-01&originIata=NRN&destinationIata=BRI",
     "date": "01.03.2026"
   },
   {
@@ -280,6 +280,16 @@
     "date": "02.03.2026"
   },
   {
+    "name": "Weeze -> Isola di Capo Rizzuto (KR) 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=NRN&destinationIata=CRV",
+    "date": "02.03.2026"
+  },
+  {
+    "name": "Weeze -> Ahl Angad 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=NRN&destinationIata=OUD",
+    "date": "02.03.2026"
+  },
+  {
     "name": "Berlin -> Catania 21.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-03&originIata=BER&destinationIata=CTA",
     "date": "03.03.2026"
@@ -310,6 +320,11 @@
     "date": "03.03.2026"
   },
   {
+    "name": "Frankfurt am Main -> Al Aaroui 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-03&originIata=HHN&destinationIata=NDR",
+    "date": "03.03.2026"
+  },
+  {
     "name": "Greven -> Alicante 23.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-04&originIata=FMO&destinationIata=ALC",
     "date": "04.03.2026"
@@ -317,6 +332,11 @@
   {
     "name": "Frankfurt am Main -> Palermo 16.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-04&originIata=HHN&destinationIata=PMO",
+    "date": "04.03.2026"
+  },
+  {
+    "name": "Weeze -> Faro 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-04&originIata=NRN&destinationIata=FAO",
     "date": "04.03.2026"
   },
   {
@@ -370,8 +390,28 @@
     "date": "10.03.2026"
   },
   {
+    "name": "Karlsruhe -> Faro 26.82€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=FKB&destinationIata=FAO",
+    "date": "10.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Málaga 24.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=HHN&destinationIata=AGP",
+    "date": "10.03.2026"
+  },
+  {
     "name": "Köln -> Alicante 24.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=CGN&destinationIata=ALC",
+    "date": "11.03.2026"
+  },
+  {
+    "name": "Berlin -> Lanzarote 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=BER&destinationIata=ACE",
+    "date": "11.03.2026"
+  },
+  {
+    "name": "Karlsruhe -> Trapani (TP) 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=FKB&destinationIata=TPS",
     "date": "11.03.2026"
   },
   {
@@ -390,8 +430,38 @@
     "date": "14.03.2026"
   },
   {
+    "name": "Nürnberg -> Palermo 23.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-14&originIata=NUE&destinationIata=PMO",
+    "date": "14.03.2026"
+  },
+  {
     "name": "Nürnberg -> Palma de Mallorca 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-15&originIata=NUE&destinationIata=PMI",
     "date": "15.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Faro 21.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-15&originIata=HHN&destinationIata=FAO",
+    "date": "15.03.2026"
+  },
+  {
+    "name": "Memmingen -> Valencia 24.90€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-16&originIata=FMM&destinationIata=VLC",
+    "date": "16.03.2026"
+  },
+  {
+    "name": "Weeze -> El Matorral 23.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-17&originIata=NRN&destinationIata=FUE",
+    "date": "17.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Barcelona 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-18&originIata=HHN&destinationIata=BCN",
+    "date": "18.03.2026"
+  },
+  {
+    "name": "Frankfurt am Main -> Gizzeria Lido 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-19&originIata=HHN&destinationIata=SUF",
+    "date": "19.03.2026"
   }
 ]
