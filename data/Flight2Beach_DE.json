@@ -455,6 +455,11 @@
     "date": "11.03.2026"
   },
   {
+    "name": "Paderborn -> Alicante 27.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=PAD&destinationIata=ALC",
+    "date": "11.03.2026"
+  },
+  {
     "name": "Frankfurt am Main -> Gizzeria Lido 14.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-12&originIata=HHN&destinationIata=SUF",
     "date": "12.03.2026"
@@ -482,6 +487,11 @@
   {
     "name": "Frankfurt am Main -> Faro 21.99€",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-15&originIata=HHN&destinationIata=FAO",
+    "date": "15.03.2026"
+  },
+  {
+    "name": "Karlsruhe -> Trapani (TP) 14.99€",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-15&originIata=FKB&destinationIata=TPS",
     "date": "15.03.2026"
   },
   {
