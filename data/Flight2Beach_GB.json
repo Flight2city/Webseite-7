@@ -1,25 +1,5 @@
 [
   {
-    "name": "Birmingham -> Valencia 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-21&originIata=BHX&destinationIata=VLC",
-    "date": "21.02.2026"
-  },
-  {
-    "name": "Birmingham -> Palma de Mallorca 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-21&originIata=BHX&destinationIata=PMI",
-    "date": "21.02.2026"
-  },
-  {
-    "name": "Belfast -> Alicante 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-21&originIata=BFS&destinationIata=ALC",
-    "date": "21.02.2026"
-  },
-  {
-    "name": "Manchester -> Faro 14.99£",
-    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-21&originIata=MAN&destinationIata=FAO",
-    "date": "21.02.2026"
-  },
-  {
     "name": "Bristol -> Tenerife 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-02-22&originIata=BRS&destinationIata=TFS",
     "date": "22.02.2026"
@@ -190,6 +170,11 @@
     "date": "01.03.2026"
   },
   {
+    "name": "London -> Tangier 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-01&originIata=STN&destinationIata=TNG",
+    "date": "01.03.2026"
+  },
+  {
     "name": "London -> El Matorral 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-02&originIata=STN&destinationIata=FUE",
     "date": "02.03.2026"
@@ -290,6 +275,11 @@
     "date": "06.03.2026"
   },
   {
+    "name": "Christchurch -> Málaga 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-06&originIata=BOH&destinationIata=AGP",
+    "date": "06.03.2026"
+  },
+  {
     "name": "Newquay -> Málaga 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-07&originIata=NQY&destinationIata=AGP",
     "date": "07.03.2026"
@@ -310,6 +300,11 @@
     "date": "07.03.2026"
   },
   {
+    "name": "Birmingham -> Málaga 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-07&originIata=BHX&destinationIata=AGP",
+    "date": "07.03.2026"
+  },
+  {
     "name": "Newcastle upon Tyne -> Málaga 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-08&originIata=NCL&destinationIata=AGP",
     "date": "08.03.2026"
@@ -327,6 +322,11 @@
   {
     "name": "Prestwick -> Alicante 15.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-08&originIata=PIK&destinationIata=ALC",
+    "date": "08.03.2026"
+  },
+  {
+    "name": "London -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-08&originIata=STN&destinationIata=BCN",
     "date": "08.03.2026"
   },
   {
@@ -355,8 +355,23 @@
     "date": "09.03.2026"
   },
   {
+    "name": "Birmingham -> Corvera 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=BHX&destinationIata=RMU",
+    "date": "09.03.2026"
+  },
+  {
+    "name": "Birmingham -> Barcelona 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-09&originIata=BHX&destinationIata=BCN",
+    "date": "09.03.2026"
+  },
+  {
     "name": "Bristol -> Alicante 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=BRS&destinationIata=ALC",
+    "date": "10.03.2026"
+  },
+  {
+    "name": "Liverpool -> Palma de Mallorca 16.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-10&originIata=LPL&destinationIata=PMI",
     "date": "10.03.2026"
   },
   {
@@ -367,6 +382,11 @@
   {
     "name": "London -> Gizzeria Lido 17.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=STN&destinationIata=SUF",
+    "date": "11.03.2026"
+  },
+  {
+    "name": "Manchester -> Rabat 16.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-11&originIata=MAN&destinationIata=RBA",
     "date": "11.03.2026"
   },
   {
@@ -397,6 +417,11 @@
   {
     "name": "London -> Brindisi 16.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-16&originIata=STN&destinationIata=BDS",
+    "date": "16.03.2026"
+  },
+  {
+    "name": "Birmingham -> Palma de Mallorca 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-16&originIata=BHX&destinationIata=PMI",
     "date": "16.03.2026"
   },
   {
@@ -440,7 +465,7 @@
     "date": "22.03.2026"
   },
   {
-    "name": "Manchester -> El Matorral 17.99£",
+    "name": "Manchester -> El Matorral 15.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-23&originIata=MAN&destinationIata=FUE",
     "date": "23.03.2026"
   },
@@ -453,5 +478,25 @@
     "name": "Norwich -> Valletta 14.99£",
     "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-23&originIata=NWI&destinationIata=MLA",
     "date": "23.03.2026"
+  },
+  {
+    "name": "Christchurch -> Palma de Mallorca 19.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-24&originIata=BOH&destinationIata=PMI",
+    "date": "24.03.2026"
+  },
+  {
+    "name": "Paisley -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-24&originIata=GLA&destinationIata=ALC",
+    "date": "24.03.2026"
+  },
+  {
+    "name": "Manchester -> Alicante 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-24&originIata=MAN&destinationIata=ALC",
+    "date": "24.03.2026"
+  },
+  {
+    "name": "Edinburgh -> Agadir (Temsia) 14.99£",
+    "url": "https://www.ryanair.com/de/de/trip/flights/select?adults=1&dateOut=2026-03-25&originIata=EDI&destinationIata=AGA",
+    "date": "25.03.2026"
   }
 ]
